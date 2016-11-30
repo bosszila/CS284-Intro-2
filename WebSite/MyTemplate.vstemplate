@@ -1,0 +1,54 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>WebSite2</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>Web</ProjectType>
+    <ProjectSubType>CSharp</ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>WebSite2</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="ProjectName.webproj" File="ProjectName.webproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="false" TargetFileName="444.jpg">444.jpg</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.aspx">login.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="login.aspx.cs">login.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="logoweb_cs.jpg">logoweb_cs.jpg</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="Pastel-wide-wallpapers-5541.jpg">Pastel-wide-wallpapers-5541.jpg</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="register1.aspx">register1.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="register1.aspx.cs">register1.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="register2.aspx">register2.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="register2.aspx.cs">register2.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table1-1.aspx">table1-1.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table1-1.aspx.cs">table1-1.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table1-2.aspx">table1-2.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table1-2.aspx.cs">table1-2.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="table1_1.png">table1_1.png</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="table1_2.png">table1_2.png</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table2-1.aspx">table2-1.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table2-1.aspx.cs">table2-1.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="table2-1.png">table2-1.png</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table2-2.aspx">table2-2.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table2-2.aspx.cs">table2-2.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="table2-2.png">table2-2.png</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table3-1.aspx">table3-1.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table3-1.aspx.cs">table3-1.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="table3-1.png">table3-1.png</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table3-2.aspx">table3-2.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table3-2.aspx.cs">table3-2.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="table3-2.png">table3-2.png</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table4-1.aspx">table4-1.aspx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="table4-1.aspx.cs">table4-1.aspx.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="table4-1.png">table4-1.png</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="vwd.webinfo">vwd.webinfo</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Web.config">Web.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Web.Debug.config">Web.Debug.config</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ตรามธ.jpg">vstg0001.jpg</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="ต้อนรับ.jpg">vstg0002.jpg</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
